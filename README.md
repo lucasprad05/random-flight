@@ -8,6 +8,12 @@ Download link:
 https://github.com/lucasprad05/random-flightRoute/releases/tag/v1.0
 
 <img src="./assets/img.png">
+- Choose the English or Portuguese zip
+- Extract the zip file
+- Open the folder and search for "randomRoute-EN.exe" or "randomRoute-PT.exe"
+- Execute and have fun :)
+
+<img src="./assets/img2.png">
 
 <h1>Instructions</h1>
 
