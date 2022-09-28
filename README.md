@@ -10,5 +10,5 @@ Type an ICAO airport and when you're done, press "e" to exit the program.
 It'll sugest for you a route and if you didn't like, press "y" to sort again.
 
 <h1>Code</h1>
-You can access the code in Python or C language if you want :)
+You can access the code in Python :)
 Feel free to upgrade with more ideas...
