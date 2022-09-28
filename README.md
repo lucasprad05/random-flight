@@ -4,7 +4,10 @@ Just a sorter of routes from a list of airports provided by the user.
 You can choose between English or Portuguese version:
 "randomRoute-"language".exe
 
+Download link:
 https://github.com/lucasprad05/random-flightRoute/releases/tag/v1.0
+
+<img src="./assets/img.png">
 
 <h1>Instructions</h1>
 
