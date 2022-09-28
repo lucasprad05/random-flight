@@ -19,7 +19,7 @@ https://github.com/lucasprad05/random-flightRoute/releases/tag/v1.0
 <h1>Instructions</h1>
 
 Type an ICAO airport and when you're done, press "e" to exit the program.
-It'll sugest for you a route and if you didn't like, press "y" to sort again.
+It'll sugest for you a route and if you didn't like, press "y"(or "s" if it's PT) to sort again.
 
 <h1>Code</h1>
 You can access the code in Python :)
