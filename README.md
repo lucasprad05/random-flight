@@ -4,6 +4,8 @@ Just a sorter of routes from a list of airports provided by the user.
 You can choose between English or Portuguese version:
 "randomRoute-"language".exe
 
+https://github.com/lucasprad05/random-flightRoute/releases/tag/v1.0
+
 <h1>Instructions</h1>
 
 Type an ICAO airport and when you're done, press "e" to exit the program.
