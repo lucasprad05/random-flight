@@ -7,7 +7,7 @@ def randomRoute(list):
     N = len(list) - 1
     apt1 = random.randint(0, N)
     apt2 = random.randint(0, N)
-    if apt1 == apt2:
+    if list[apt1] == list[apt2]:
         return randomRoute(list)
     print('Route: ' + list[apt1] + ' - ' + list[apt2])
     op = input('Do you wanna sort again? (y/n): ')
