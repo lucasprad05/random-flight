@@ -9,18 +9,9 @@ https://github.com/lucasprad05/random-flightRoute/files/9702967/randomRoute.1.1.
 
 <img src="./assets/img.png">
 
-- Choose the English or Portuguese zip
+- Click to download
 - Extract the zip file
-- Open the folder and search for "randomRoute-EN.exe" or "randomRoute-PT.exe"
-- Execute and have fun :)
+- Run the installer and select a folder to save
+- Execute "randomRoute-EN" and have fun :)
 
 <img src="./assets/img2.png">
-
-<h1>Instructions</h1>
-
-Type an ICAO airport and when you're done, press "e" to exit the program.
-It'll sugest for you a route and if you didn't like, press "y"(or "s" if it's PT) to sort again.
-
-<h1>Code</h1>
-You can access the code in Python :)
-Feel free to upgrade with more ideas...
