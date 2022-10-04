@@ -13,5 +13,3 @@ https://github.com/lucasprad05/random-flightRoute/files/9702967/randomRoute.1.1.
 - Extract the zip file
 - Run the installer and select a folder to save
 - Execute "randomRoute-EN" and have fun :)
-
-<img src="./assets/img2.png">
